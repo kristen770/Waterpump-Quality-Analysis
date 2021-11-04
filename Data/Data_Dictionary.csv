@@ -1,0 +1,34 @@
+,,,
+,Test Data Tab,,
+,,,
+,,,
+,,,
+,,,
+,,Field Name,Description
+,,meterID,A unique Identifier for each meter
+,,testYear,The year the meter was pulled and tested (meters are discarded and replaced with another unit after testing)
+,,intallationYear,The year the meter was installed at the customer location
+,,meterSize,"The meter size (either 5/8 Inch, 3/4 Inch, or 1 Inch)"
+,,meterMake,"The make of the meter (neptune, badger, or trident)"
+,,accuracy,"The accuracy of the meter based on bench test results collected in the test year. The test results indicate the proportion of volume captured by the meter. For example, if the accuracy is 96% and 100 gallons of water were delivered to the customer, only 96 gallons would have been recorded by the meter and 4 gallons would be considered a revenue loss."
+,,,
+,Summary Customer Usage Tab,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,Field Name,Description
+,,Meter Make,"The meter make (neptune, badger, or trident)"
+,,Total 2019 Recorded Usage (CCF),The total volume recorded by each meter make in the 2019 calendar year aggregated from billing records.
+,,Count of Meters Currently in Service,The total count of meters currently in service in the system by meter make
+,,,
+,,,
+,Other Useful Parameters,,
+,,,
+,,,
+,,,
+,,Parameter Name & Value,Description
+,,Customer Retail Unit Cost: $5.09/CCF,"The customer retail unit cost represents the price the managing utility charges per CCF of water sold. Therefore, any lost revenue due to meter inaccuracy could be valued at this rate."
+,,Cost to Replace a Customer Meter: $150/meter,"The full cost of customer meter replacement including staff time, equipment, and purchase of a new replacement meter."
