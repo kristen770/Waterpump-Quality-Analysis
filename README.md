@@ -20,3 +20,10 @@ Descriptive statistics, data filtering, data visualization, revenue modeling.
 # Results 
 
 ## Current State of Meters 
+
+## Revenue Review 
+
+## Action Plan (Recommendations) 
+
+# Future Work
+
