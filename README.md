@@ -17,7 +17,10 @@ Data is a sampling of waterpumps included in the primary dataset is information 
 # Methods  
 Descriptive statistics, data filtering, data visualization, revenue modeling. 
 
-# Results 
+# Results  
+* More than 2/3 of the total 1,960 units analyzed were 'Neptune' model pumps  
+* 90% of the units were 5/8" in size 
+* Age distribution of models shoed the majority of models were less than 30 years old 
 
 ## Current State of Meters 
 
